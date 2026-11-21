@@ -12,7 +12,7 @@ and a habit of building tools for problems I actually have.
 ### 💼 Experience
 - **Ciena**, Embedded Software Engineering Intern, Modem Control Software *(Sep 2026 – present)*
 - **Ciena**, Software Engineering Intern, Tooling & Infrastructure Automation *(Jan – Aug 2026)*
-- **Carleton University**, Undergraduate TA, Programming and Algorithms *(Sep–Dec 2025)*: mentored
+- **Carleton University**, Undergraduate TA, Programming and Algorithms *(Sep – Dec 2025)*: mentored
   **150+ students** across **200+ code reviews**.
 
 ### 🌐 Web, apps & tools
